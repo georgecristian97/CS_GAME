@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.exe
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.deps.json
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.runtimeconfig.json
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.runtimeconfig.dev.json
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.dll
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\bin\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.pdb
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.csprojAssemblyReference.cache
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.AssemblyInfo.cs
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.dll
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.pdb
+C:\Users\George\source\repos\ConsoleApp3_cond_while_excep\ConsoleApp3_cond_while_excep\obj\Debug\netcoreapp3.1\ConsoleApp3_cond_while_excep.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.exe
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.deps.json
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.runtimeconfig.json
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.runtimeconfig.dev.json
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.dll
+C:\Users\George\source\repos\exception_loop\exception_loop\bin\Debug\netcoreapp3.1\exception_loop.pdb
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.csprojAssemblyReference.cache
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.AssemblyInfo.cs
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.dll
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.pdb
+C:\Users\George\source\repos\exception_loop\exception_loop\obj\Debug\netcoreapp3.1\exception_loop.genruntimeconfig.cache

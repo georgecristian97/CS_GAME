@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.exe
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.deps.json
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.runtimeconfig.json
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.runtimeconfig.dev.json
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.dll
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\bin\Debug\netcoreapp3.1\Lupta_virtuala.pdb
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.csprojAssemblyReference.cache
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.AssemblyInfo.cs
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.dll
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.pdb
+C:\Users\George\source\repos\Lupta_virtuala\Lupta_virtuala\obj\Debug\netcoreapp3.1\Lupta_virtuala.genruntimeconfig.cache

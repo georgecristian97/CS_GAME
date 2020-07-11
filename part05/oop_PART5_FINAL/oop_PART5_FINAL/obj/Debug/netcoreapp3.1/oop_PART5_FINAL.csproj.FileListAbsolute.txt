@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.exe
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.deps.json
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.runtimeconfig.json
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.runtimeconfig.dev.json
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.dll
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\bin\Debug\netcoreapp3.1\oop_PART5_FINAL.pdb
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.csprojAssemblyReference.cache
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.AssemblyInfo.cs
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.dll
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.pdb
+C:\Users\George\source\repos\oop_PART5_FINAL\oop_PART5_FINAL\obj\Debug\netcoreapp3.1\oop_PART5_FINAL.genruntimeconfig.cache

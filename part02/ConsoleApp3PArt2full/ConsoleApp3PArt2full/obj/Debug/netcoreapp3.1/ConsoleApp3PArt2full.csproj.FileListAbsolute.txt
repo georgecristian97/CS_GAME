@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.csprojAssemblyReference.cache
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.AssemblyInfo.cs
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.exe
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.deps.json
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.runtimeconfig.json
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.runtimeconfig.dev.json
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.dll
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\bin\Debug\netcoreapp3.1\ConsoleApp3PArt2full.pdb
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.dll
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.pdb
+C:\Users\George\source\repos\ConsoleApp3PArt2full\ConsoleApp3PArt2full\obj\Debug\netcoreapp3.1\ConsoleApp3PArt2full.genruntimeconfig.cache

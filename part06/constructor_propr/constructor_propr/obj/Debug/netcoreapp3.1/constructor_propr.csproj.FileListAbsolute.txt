@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.exe
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.deps.json
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.runtimeconfig.json
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.runtimeconfig.dev.json
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.dll
+C:\Users\George\source\repos\constructor_propr\constructor_propr\bin\Debug\netcoreapp3.1\constructor_propr.pdb
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.csprojAssemblyReference.cache
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.AssemblyInfo.cs
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.dll
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.pdb
+C:\Users\George\source\repos\constructor_propr\constructor_propr\obj\Debug\netcoreapp3.1\constructor_propr.genruntimeconfig.cache

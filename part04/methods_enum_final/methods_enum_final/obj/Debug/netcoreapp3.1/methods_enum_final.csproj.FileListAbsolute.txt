@@ -1,0 +1,12 @@
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.AssemblyInfo.cs
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.exe
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.deps.json
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.runtimeconfig.json
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.runtimeconfig.dev.json
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.dll
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\bin\Debug\netcoreapp3.1\methods_enum_final.pdb
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.dll
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.pdb
+C:\Users\George\source\repos\methods_enum_final\methods_enum_final\obj\Debug\netcoreapp3.1\methods_enum_final.genruntimeconfig.cache
