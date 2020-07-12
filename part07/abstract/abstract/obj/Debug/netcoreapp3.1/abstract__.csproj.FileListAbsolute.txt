@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.exe
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.deps.json
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.runtimeconfig.json
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.runtimeconfig.dev.json
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.dll
+C:\Users\George\source\repos\abstract\abstract\bin\Debug\netcoreapp3.1\abstract__.pdb
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.csprojAssemblyReference.cache
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.AssemblyInfo.cs
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.dll
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.pdb
+C:\Users\George\source\repos\abstract\abstract\obj\Debug\netcoreapp3.1\abstract__.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.exe
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.deps.json
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.runtimeconfig.json
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.runtimeconfig.dev.json
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.dll
+C:\Users\George\source\repos\interfete\interfete\bin\Debug\netcoreapp3.1\interfete.pdb
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.csprojAssemblyReference.cache
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.AssemblyInfo.cs
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.dll
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.pdb
+C:\Users\George\source\repos\interfete\interfete\obj\Debug\netcoreapp3.1\interfete.genruntimeconfig.cache

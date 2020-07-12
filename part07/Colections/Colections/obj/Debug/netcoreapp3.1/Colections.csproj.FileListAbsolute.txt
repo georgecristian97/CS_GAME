@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.exe
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.deps.json
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.runtimeconfig.json
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.runtimeconfig.dev.json
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.dll
+C:\Users\George\source\repos\Colections\Colections\bin\Debug\netcoreapp3.1\Colections.pdb
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.csprojAssemblyReference.cache
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.AssemblyInfo.cs
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.dll
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.pdb
+C:\Users\George\source\repos\Colections\Colections\obj\Debug\netcoreapp3.1\Colections.genruntimeconfig.cache
